@@ -1,2 +1,2 @@
 language: java
-install: ant deps
+install: ant Break Demo DiscountStrategy Order PercentDiscountStrategy RandomDiscountStrategy StoreCreditDiscountStrategy
