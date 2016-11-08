@@ -3,7 +3,7 @@ import java.util.Random;
 public class RandomDiscountStrategy
   implements DiscountStrategy {
 
-  private Random rng;
+  private Random rng
 
   public RandomDiscountStrategy() {
     this.rng = new Random();
